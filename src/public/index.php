@@ -1,4 +1,12 @@
-<?php
-declare(strict_types=1);
+<html>
+<head>
 
-echo 'It works !';
+</head>
+<body>
+<?php
+
+require "../variable/human.php";
+
+?>
+</body>
+</html>
